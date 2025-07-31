@@ -1,4 +1,4 @@
-# Samsung Innovation Campus – Python & AI Summaries
+# Samsung Innovation Campus Course – Python & AI
 
 This repository contains summaries and practical notes from the Samsung Innovation Campus course, focused on Python programming and Artificial Intelligence. All content was developed and tested in Google Colab, making it easy to follow and reproduce.
 
